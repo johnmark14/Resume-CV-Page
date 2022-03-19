@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="280">
   </a>
 
 <h3 align="center">Verma farms Layout</h3>
@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 John - [@Email]() - johmarkgabrentina@gmail.com
 
-Project Link: [https://johnmark14.github.io/verma-shop-shopify-theme/index.html](https://johnmark14.github.io/verma-shop-shopify-theme/index.html)
+Project Link: [https://johnmark14.github.io/Resume-CV-Page/index.html](https://johnmark14.github.io/Resume-CV-Page/index.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
